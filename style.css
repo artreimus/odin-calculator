@@ -1,10 +1,10 @@
-/* *,
+*,
 *::before,
 *::after {
   box-sizing: border-box;
   font-family: Helvetica;
   font-weight: normal;
-} */
+}
 
 body {
   background: linear-gradient(to bottom, #2980b9, #6dd5fa, #ffffff);
